@@ -1,5 +1,5 @@
 # Numerical_Analysis
-&lt; NTUA | ECE > - ( Numerical Analysis )
+&lt; ECE | NTUA > - ( Numerical Analysis )
 
 Various functions to help visualize and verify answers to problems and exercises
 
